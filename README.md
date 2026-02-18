@@ -1,6 +1,7 @@
 # Cafe
 
 Figma Link - https://www.figma.com/site/9wtEjPA0OyluATfaWmhODe/DUX?node-id=0-1&t=Q3sWnxOSZ9HOJI2K-1
+Colour Pallette - https://www.canva.com/colors/color-palettes/swooped-roof/ 
 
 # Introduction
 
