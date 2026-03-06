@@ -8,7 +8,9 @@
 # Justification & Analysis
 Business Justification
 Coffee is a beverage that many people consume on a daily basis, often not within the confines of their own home, this is for many reasons, but the main one is convenience. For many this creates a reliance on coffee shops to fill this void in their day. Additionally online ordering has seen a dramatic increase in previous years meaning business have had to adapt to this change in the market. 
+
 Many large brands have bespoke websites that fulfil the need to be online but, in our opinion, they lack one thing that we believe is vital, character and personality. For instance, Starbucks website has a distinctly sterile and impersonal feel to it. At the most basic level their colour palette is remarkably simple, just their signature green set on white. This is a problem that we intend to address with the development of our website.
+
 While we will not be reinventing the wheel as such with design principles and over the top gimmicks, we believe that we have created a website that all users will feel comfortable using.  
 
 
