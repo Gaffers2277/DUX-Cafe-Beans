@@ -14,13 +14,13 @@ Many large brands have bespoke websites that fulfil the need to be online but, i
 While we will not be reinventing the wheel as such with design principles and over the top gimmicks, we believe that we have created a website that all users will feel comfortable using. 
 
 Competitive Analysis
-<img width="1106" height="672" alt="Screenshot 2026-03-06 150005" src="https://github.com/user-attachments/assets/b08ab907-8f7e-4975-a033-ec77cd15d681" />
+![Starbucks Home Page](assets/starbucks-homepage.png)
 -	Featured most prominently on the home page of the Starbucks website is an advertisement for their app. When a user enters the home page it is not likely that their first instinct will be to leave it immediately to enter their respective app store. 
 -	Abiding by Hicks Law, the user is only given a limited number of options of different pages to visit at the top of the page. This allows the user to make a much simpler choice and therefore a much quicker choice.
 -	The page also demonstrates a positive Signal-to-Noise Ratio as the user is not overwhelmed by options and navigating their way through a crowded web page, all icons and text is given space to breathe.
 -	Follows the Gutenberg Rule as a few pages are displayed prominently at the top of the page, at least one of which the user will need. As you descend the page information becomes less immediately relevant.
 
-<img width="1052" height="697" alt="Screenshot 2026-03-06 150118" src="https://github.com/user-attachments/assets/785f5b84-a935-4bdc-9d86-d35c350bbf60" />
+![Starbucks Menu](assets/starbucks-menu.png)
 -	On the menu page of the website iconic representation is a design principle that has been demonstrated as every menu item is assigned a corresponding picture. This can prove helpful to customers who do not know what they would like to eat or drink.
 
 -	This page also displays a great demonstration of CRAP principles
