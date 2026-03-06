@@ -11,7 +11,16 @@ Coffee is a beverage that many people consume on a daily basis, often not within
 
 Many large brands have bespoke websites that fulfil the need to be online but, in our opinion, they lack one thing that we believe is vital, character and personality. For instance, Starbucks website has a distinctly sterile and impersonal feel to it. At the most basic level their colour palette is remarkably simple, just their signature green set on white. This is a problem that we intend to address with the development of our website.
 
-While we will not be reinventing the wheel as such with design principles and over the top gimmicks, we believe that we have created a website that all users will feel comfortable using.  
+While we will not be reinventing the wheel as such with design principles and over the top gimmicks, we believe that we have created a website that all users will feel comfortable using. 
+
+Competitive Analysis
+<img width="1106" height="672" alt="Screenshot 2026-03-06 150005" src="https://github.com/user-attachments/assets/b08ab907-8f7e-4975-a033-ec77cd15d681" />
+-	Featured most prominently on the home page of the Starbucks website is an advertisement for their app. When a user enters the home page it is not likely that their first instinct will be to leave it immediately to enter their respective app store. 
+-	Abiding by Hicks Law, the user is only given a limited number of options of different pages to visit at the top of the page. This allows the user to make a much simpler choice and therefore a much quicker choice.
+-	The page also demonstrates a positive Signal-to-Noise Ratio as the user is not overwhelmed by options and navigating their way through a crowded web page, all icons and text is given space to breathe.
+-	Follows the Gutenberg Rule as a few pages are displayed prominently at the top of the page, at least one of which the user will need. As you descend the page information becomes less immediately relevant.
+
+<img width="1052" height="697" alt="Screenshot 2026-03-06 150118" src="https://github.com/user-attachments/assets/785f5b84-a935-4bdc-9d86-d35c350bbf60" />
 
 
 
@@ -19,7 +28,12 @@ While we will not be reinventing the wheel as such with design principles and ov
 # Design Choices
 ## Colour Pallette
 <img width="666" height="640" alt="Screenshot from 2026-03-06 13-36-35" src="https://github.com/user-attachments/assets/852386df-dcaf-4fcf-8d1b-c41263003124" />
-
+-	On the menu page of the website iconic representation is a design principle that has been demonstrated as every menu item is assigned a corresponding picture. This can prove helpful to customers who do not know what they would like to eat or drink.
+-	This page also displays a great demonstration of CRAP principles
+C – On the side bar the different sections are written in black and bold whereas their subsections are in a smaller lighter grey.
+R – Each icons background has the same dark green colour, and all products are framed in the same way for their picture. 
+A – Page is designed in a visually appealing way as all elements are in line with one another.
+P – All elements related to one another are grouped together under clearly defined headings.
 
 ---
 # User Group Profiles
