@@ -33,10 +33,15 @@ P – All elements related to one another are grouped together under clearly def
 ## Colour Pallette
 <img width="666" height="640" alt="Screenshot from 2026-03-06 13-36-35" src="https://github.com/user-attachments/assets/852386df-dcaf-4fcf-8d1b-c41263003124" />
 -	On the menu page of the website iconic representation is a design principle that has been demonstrated as every menu item is assigned a corresponding picture. This can prove helpful to customers who do not know what they would like to eat or drink.
--	This page also displays a great demonstration of CRAP principles
+-	This page also displays a great demonstration of CRAP principles:
+
+
 C – On the side bar the different sections are written in black and bold whereas their subsections are in a smaller lighter grey.
+
 R – Each icons background has the same dark green colour, and all products are framed in the same way for their picture. 
+
 A – Page is designed in a visually appealing way as all elements are in line with one another.
+
 P – All elements related to one another are grouped together under clearly defined headings.
 
 ---
