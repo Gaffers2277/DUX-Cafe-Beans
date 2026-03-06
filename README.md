@@ -23,6 +23,7 @@ Competitive Analysis
 <img width="1052" height="697" alt="Screenshot 2026-03-06 150118" src="https://github.com/user-attachments/assets/785f5b84-a935-4bdc-9d86-d35c350bbf60" />
 -	On the menu page of the website iconic representation is a design principle that has been demonstrated as every menu item is assigned a corresponding picture. This can prove helpful to customers who do not know what they would like to eat or drink.
 -	This page also displays a great demonstration of CRAP principles
+
 C – On the side bar the different sections are written in black and bold whereas their subsections are in a smaller lighter grey.
 
 R – Each icons background has the same dark green colour, and all products are framed in the same way for their picture. 
