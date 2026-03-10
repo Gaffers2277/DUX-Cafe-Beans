@@ -7,6 +7,10 @@
 - [Colour Pallette](https://www.canva.com/colors/color-palettes/neutral-meeting-ground/)
 
 ---
+# User Profiles
+
+
+---
 # Justification & Analysis
 Business Justification
 Coffee is a beverage that many people consume on a daily basis, often not within the confines of their own home, this is for many reasons, but the main one is convenience. For many this creates a reliance on coffee shops to fill this void in their day. Additionally online ordering has seen a dramatic increase in previous years meaning business have had to adapt to this change in the market. 
@@ -36,18 +40,6 @@ A – Page is designed in a visually appealing way as all elements are in line w
 P – All elements related to one another are grouped together under clearly defined headings.
 
 ---
-# User Group Profiles
-
-## Group 1
-
-## Group 2
-
-## Group 3
-
-# User Stories
-
----
-
 # Design Choices
 ## Colour Pallette
 ![Colour Palette](assets/screenshots/colour-palette.png)
