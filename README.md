@@ -8,7 +8,19 @@
 
 ---
 # User Profiles
+## First Time Visitor
 
+![Will First Time Visitor](assets/screenshots/will-first-time-visitor.png)
+
+---
+## Returning Visitor
+
+![John Returning Visitor](assets/screenshots/john-returning-visitor.png)
+
+---
+## Repeat Visitor
+
+![Jessica Repeat Visitor](assets/screenshots/jessica-repeat-visitor.png)
 
 ---
 # Justification & Analysis
