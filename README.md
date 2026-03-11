@@ -1,10 +1,7 @@
 # Cafe Beans
 ![Home Page](assets/showcase.png)
 ---
-# Links
 
-- [Figma](https://www.figma.com/site/9wtEjPA0OyluATfaWmhODe/DUX?node-id=0-1&t=Q3sWnxOSZ9HOJI2K-1)
-- [Colour Pallette](https://www.canva.com/colors/color-palettes/neutral-meeting-ground/)
 
 ---
 # User Profiles
