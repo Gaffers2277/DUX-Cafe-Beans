@@ -21,6 +21,80 @@
 ## Repeat Visitor
 
 ![Jessica Repeat Visitor](assets/screenshots/jessica-repeat-visitor.png)
+---
+# Theme - Online Menu & Click and Collect
+
+## Epic -
+
+As a customer, I want to be able to view the cafes menu and order online so that i can click and collect on my way to work.
+
+## Stories - 
+
+As a customer, I want to be able to add items to a basket so that i can purchase multiple items at once.
+
+As a customer, I want to be able to see what food and drink the cafe serves so that i can decide if i want to visit.
+
+## Tasks - 
+
+- Create an menu page
+- Add a "Add to Basket" button on menu items
+- Add basket button to top right menu
+- Add order button under basket list
+
+## Acceptance Criteria
+
+Given the user wants to order items online, when they view the menu page, they can then add items to a basket and order them.
+
+---
+# Theme - About Page
+
+## Epic -
+
+As a customer, I want to be able to find more information about the cafe so that i can decide if i want to visit the cafe.
+
+## Stories - 
+
+As a customer, I want to be able to open the location in a map application to use for directions.
+
+As a customer, I want to be able to view the mission statement of the cafe so that i can decide if i want to visit the cafe.
+
+As a customer, I want to be able to see the opening times of the cafe so that i know when i can visit the cafe.
+
+## Tasks - 
+
+- Create an about us page
+- Add a mission statement
+- Add opening times to the about page
+- Add a Google location map on the about us page
+- Make map open Google maps for directions
+
+## Acceptance Criteria
+
+Given the user wants to find the location of the coffee shop, when they view the about us page, they can see a Google map view of our location and when clicked will re-direct to Google maps for directions.
+
+---
+# Theme - Event Bookings
+
+## Epic -
+
+As a customer, I want to be able to book events to be hosted by the cafe.
+
+## Stories - 
+
+As a customer, I want to be able to view upcoming events so that i can decide if i want attend.
+
+As a customer, I want to be able to book an event at the cafe so that i can create local monthly meet ups.
+
+## Tasks - 
+
+- Create an Bookings page
+- Add a "Book Event" button
+- Add bookings form page
+- Add calendar with upcoming events
+
+## Acceptance Criteria
+
+Given the user wants to book events, when they view the events page they will see a "Book Event" button which will take them to the event form. There they can fill out the required fields and book the event.
 
 ---
 # Justification & Analysis
