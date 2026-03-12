@@ -135,10 +135,11 @@ During the design of the wireframe we experimented with having the Cafe logo in 
 We used the - 1.4.3/1.4.6 - Contrast - Contrast of at least 4:5:1/ Contrast of at least 7:1 Web Content Accessibility Guideline (WCAG) to make sure the contrast between text and text box colour was readable. Shown in the screenshot we meet all ratings for both minimum and enhanced guidelines. (WCAG, 2025), (WCAG, 2025), (WebAIM, 2025)
 
 ---
+## Icons
+
 We used icons like a calendar and clock to further represent the events and opening times respectively. We also used Iconic Representation to show the dark/light mode toggle and basket as they do not have titles to describe the button.
 
-## Icons
-[Google Materials Icons](https://fonts.google.com/icons?selected=Material+Symbols+Outlined:keyboard_arrow_down:FILL@0;wght@400;GRAD@0;opsz@24&icon.query=arrow&icon.size=24&icon.color=%23e3e3e3)
+[Google Materials Icons](https://fonts.google.com/icons?icon.size=24&icon.color=%23e3e3e3)
 
 ### Account Icon
 ![account-cirle](assets/icons/account_circle_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.svg)
@@ -193,7 +194,16 @@ We used icons like a calendar and clock to further represent the events and open
 ![About Us](assets/screenshots/about-us.png)
 
 ---
+# Disclaimers
+
+- All images used in the wireframe are AI generated
+- Mission statement and Home Page Text is AI generated
+
+---
 # References
+
+Google Materials Icons. (2026) Google Materials Icons. Available at: https://fonts.google.com/icons?icon.size=24&icon.color=%23e3e3e3 [Accessed: 12 March 2026]
+
 WCAG. (2026) Understanding SC 1.4.6: Contrast (Enhanced) (Level AAA). Available at: https://www.w3.org/WAI/WCAG22/Understanding/contrast-enhanced.html [Accessed: 12 March 2026]
 
 WCAG. (2026) Understanding SC 1.4.3: Contrast (Minimum) (Level AA). Available at: https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html [Accessed: 12 March 2026]
