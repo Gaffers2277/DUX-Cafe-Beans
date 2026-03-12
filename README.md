@@ -153,12 +153,18 @@ P – All elements related to one another are grouped together under clearly def
 
 ## Home Page
 ![Home Page](assets/screenshots/homepage.png)
+- Drop shadows have been added to the clickable items. This has been done to make it clearer to users which items they are able to interact with as it is not always clear to all users
+- To improve the readability of the text blocks a greater contrast of colours has been used. This means whatever colour scheme that a user is using, they will be able to read it without any difficulty
+- To make it clear to users which buttons are active we have added a highlight feature to the wireframe. This has been done to clearly communicate to the user which part of the website they are interacting with
+- Separate colours were used for text blocks and buttons, this decision was made to improve clarity for the user
 
 ## Home Page Dark Mode
 ![Event Page](assets/screenshots/homepage-darkmode.png)
+- To easily communicate to the user which colour mode they are using we have added different buttons for their respective mode and additionally added contrasting colours
 
 ## Menu
 ![Menu](assets/screenshots/menu.png)
+- We chose to make the text on buttons and the card title bold to improve user readability
 
 ## Menu Basket
 ![Menu Basket](assets/screenshots/menu-basket.png)
