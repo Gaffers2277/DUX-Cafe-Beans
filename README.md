@@ -93,14 +93,16 @@ Given the user wants to book events, when they view the events page they will se
 
 ---
 # Justification & Analysis
-Business Justification
+## Business Justification
+
 Coffee is a beverage that many people consume on a daily basis, often not within the confines of their own home, this is for many reasons, but the main one is convenience. For many this creates a reliance on coffee shops to fill this void in their day. Additionally online ordering has seen a dramatic increase in previous years meaning business have had to adapt to this change in the market. 
 
 Many large brands have bespoke websites that fulfil the need to be online but, in our opinion, they lack one thing that we believe is vital, character and personality. For instance, Starbucks website has a distinctly sterile and impersonal feel to it. At the most basic level their colour palette is remarkably simple, just their signature green set on white. This is a problem that we intend to address with the development of our website.
 
 While we will not be reinventing the wheel as such with design principles and over the top gimmicks, we believe that we have created a website that all users will feel comfortable using. 
 
-Competitive Analysis
+## Competitive Analysis
+
 ![Starbucks Home Page](assets/screenshots/starbucks-homepage.png)
 -	Featured most prominently on the home page of the Starbucks website is an advertisement for their app. When a user enters the home page it is not likely that their first instinct will be to leave it immediately to enter their respective app store. 
 -	Abiding by Hicks Law, the user is only given a limited number of options of different pages to visit at the top of the page. This allows the user to make a much simpler choice and therefore a much quicker choice.
