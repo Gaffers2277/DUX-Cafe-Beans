@@ -1,7 +1,5 @@
 # Cafe Beans
 ![Home Page](assets/showcase.png)
----
-
 
 ---
 # User Profiles
@@ -124,8 +122,18 @@ P – All elements related to one another are grouped together under clearly def
 
 ---
 # Design Choices
+The wireframe follows the design principle of Ockham’s Razor where we have made sure to keep things simple for the user by only showing what is needed on each page and keeping the overall layout minimalist.
+
+During the design of the wireframe we experimented with having the Cafe logo in the center top of the webpage. This didn’t explicitly follow the Gutenberg Diagram but after some time we realised that the logo pushed all the content lower down the page making it cluttered. By moving the logo inline with the top menu and to the top left it allows the user's eye to flow from the logo to the navigation menu.
+
+---
 ## Colour Pallette
 ![Colour Palette](assets/screenshots/colour-palette.png)
+![Contrast](assets/screenshots/contrast.png)
+We used the - 1.4.3/1.4.6 - Contrast - Contrast of at least 4:5:1/ Contrast of at least 7:1 Web Content Accessibility Guideline (WCAG) to make sure the contrast between text and text box colour was readable. Shown in the screenshot we meet all ratings for both minimum and enhanced guidelines. (WCAG, 2025), (WCAG, 2025), (WebAIM, 2025)
+
+---
+We used icons like a calendar and clock to further represent the events and opening times respectively. We also used Iconic Representation to show the dark/light mode toggle and basket as they do not have titles to describe the button.
 
 ## Icons
 [Google Materials Icons](https://fonts.google.com/icons?selected=Material+Symbols+Outlined:keyboard_arrow_down:FILL@0;wght@400;GRAD@0;opsz@24&icon.query=arrow&icon.size=24&icon.color=%23e3e3e3)
@@ -148,6 +156,7 @@ P – All elements related to one another are grouped together under clearly def
 ### Light/Dark Mode Icons
 ![light-mode](assets/icons/light_mode_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.svg)
 ![dark-mode](assets/icons/dark_mode_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.svg)
+
 ---
 # Wireframe
 
@@ -180,3 +189,14 @@ P – All elements related to one another are grouped together under clearly def
 
 ## About Us
 ![About Us](assets/screenshots/about-us.png)
+
+---
+# References
+WCAG. (2026) Understanding SC 1.4.6: Contrast (Enhanced) (Level AAA). Available at: https://www.w3.org/WAI/WCAG22/Understanding/contrast-enhanced.html [Accessed: 12 March 2026]
+
+WCAG. (2026) Understanding SC 1.4.3: Contrast (Minimum) (Level AA). Available at: https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html [Accessed: 12 March 2026]
+
+WCAG. (2026) Understanding SC 2.4.2: Page Titled (Level A). Available at: https://www.w3.org/WAI/WCAG21/Understanding/page-titled [Accessed: 12 March 2026]
+
+WebAIM. (2026) Contrast Checker. Available at: https://webaim.org/resources/contrastchecker/ [Accessed: 12 March 2026]
+
