@@ -176,16 +176,19 @@ We used icons like a calendar and clock to further represent the events and open
 
 ## Menu
 ![Menu](assets/screenshots/menu.png)
-- We chose to make the text on buttons and the card title bold to improve user readability
+- We chose to make the text on the buttons and the card title bold to improve user readability
+- We followed the 1.3.1 info and relationship - Items separated by category WCAG guideline when creating the menu to give the user an easier viewing experience.
 
 ## Menu Basket
 ![Menu Basket](assets/screenshots/menu-basket.png)
+- We added a number icon for the item count in the basket to the basket icon, this was done to show the status of the basket system to the user to better indicate visibility of system status
 
 ## Events
 ![Event Page](assets/screenshots/events.png)
 
 ## Event Form
 ![Event Form](assets/screenshots/event-form.png)
+- We added error messages to the event form to provide error prevention for required fields which was following the 1.3.1 - info and relationships - Form with required fields WCAG guidelines
 
 ## Event Form Error Messages
 ![Event Form Error Messages](assets/screenshots/event-form-error.png)
@@ -197,16 +200,18 @@ We used icons like a calendar and clock to further represent the events and open
 # Disclaimers
 
 - All images used in the wireframe are AI generated
-- Mission statement and Home Page Text is AI generated
+- Mission statement and Home Page Text are AI generated
 
 ---
 # References
 
 Google Materials Icons. (2026) Google Materials Icons. Available at: https://fonts.google.com/icons?icon.size=24&icon.color=%23e3e3e3 [Accessed: 12 March 2026]
 
-WCAG. (2026) Understanding SC 1.4.6: Contrast (Enhanced) (Level AAA). Available at: https://www.w3.org/WAI/WCAG22/Understanding/contrast-enhanced.html [Accessed: 12 March 2026]
+WCAG. (2026) Understanding SC 1.3.1: Info and Relationships (Level A).  Available at: https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html [Accessed: 13 March 2026]
 
 WCAG. (2026) Understanding SC 1.4.3: Contrast (Minimum) (Level AA). Available at: https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html [Accessed: 12 March 2026]
+
+WCAG. (2026) Understanding SC 1.4.6: Contrast (Enhanced) (Level AAA). Available at: https://www.w3.org/WAI/WCAG22/Understanding/contrast-enhanced.html [Accessed: 12 March 2026]
 
 WCAG. (2026) Understanding SC 2.4.2: Page Titled (Level A). Available at: https://www.w3.org/WAI/WCAG21/Understanding/page-titled [Accessed: 12 March 2026]
 
